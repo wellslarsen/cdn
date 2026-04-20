@@ -1,0 +1,2 @@
+# cdn
+Public hosted assets
